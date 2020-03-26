@@ -1,0 +1,271 @@
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+
+
+AM AJUNS LA FJUMATATE
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+
+Luci mananca mere
+Edi mananca pere
+Da
+Elena nu mananca mere
+Ruxi mananca salata
+Alex mananca cartofi prajiti si crispy strips cu sos de maioneza de la KFC
+
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+#ifndef LINK
+#define LINK
+#include "lib.h"
+
+#define MAX_VALUE 1396
+
+typedef struct {
+  msg* m;
+  unsigned long long finish_time;
+} msg_in_flight;
+
+typedef struct {
+	int type;
+	char payload[MAX_VALUE];
+} my_msg;
+
+#endif
+
+
+AM AJUNS LA FINAL
